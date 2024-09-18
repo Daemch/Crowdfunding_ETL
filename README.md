@@ -1,5 +1,6 @@
-# Project_2
+Crowdfunding_ETL
 
-All code here was created by myself, Rebekkah, using class notes and Xpert assistant.
+This was an interesting project. 
 
-Just testing something out. trying to merge.
+
+
